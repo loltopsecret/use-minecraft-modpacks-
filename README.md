@@ -41,3 +41,17 @@ https://console.curseforge.com/#/api-keys
 Каждый добавленный пользователем ключ увеличивает лимит на 10 загрузок.
 Ваши API-ключи сохраняются локально в файле config.json и никуда не отправляются.
 Где найти API-ключ:<img width="1148" height="408" alt="изображение" src="https://github.com/user-attachments/assets/6f2ebbdc-e2e5-4a2f-883f-8d92d9e03314" />
+Как использовать?
+Выберите модпак <img width="744" height="693" alt="изображение" src="https://github.com/user-attachments/assets/f1864959-8253-49d2-ace6-a6a13e112c5d" />
+<img width="733" height="78" alt="изображение" src="https://github.com/user-attachments/assets/d6ea860f-83a7-4da4-80c3-30c70a39ffd0" />
+После выбора укажите тип архива, который будет пользоваться <img width="142" height="58" alt="изображение" src="https://github.com/user-attachments/assets/039de6f3-d4af-4212-a90e-2d66fb87e9a9" />
+Затем выберите, что будет включено в конечный результат (моды, шейдеры или ресурспаки) <img width="482" height="72" alt="изображение" src="https://github.com/user-attachments/assets/a2573439-e024-4833-b68f-fa92ec2c8079" />
+Затем нажмите «Организовать» и подождите, пока программа выполнит организацию (это может занять некоторое время).
+затем жмите ОК <img width="289" height="124" alt="изображение" src="https://github.com/user-attachments/assets/f0bd5cec-ac33-4f68-9eaa-b19f555cb794" />
+и открыть папку с файлами<img width="237" height="117" alt="изображение" src="https://github.com/user-attachments/assets/6ee81986-8ab3-43ce-830d-83b621ab5842" />
+открыть lrshk.zip(7Z) <img width="78" height="20" alt="изображение" src="https://github.com/user-attachments/assets/f9acf382-5570-47d1-9ae4-c92602ace2e9" />
+Этот файл будет содержать моды, шейдеры и ресурспаки <img width="131" height="60" alt="изображение" src="https://github.com/user-attachments/assets/693cf5b7-6201-49a3-a14e-b6c477b7f0ca" />
+Просто откройте папку и перетащите файлы   <img width="129" height="689" alt="изображение" src="https://github.com/user-attachments/assets/93a8470f-7495-4c78-a090-a3213c7afaf9" />
+
+
+
